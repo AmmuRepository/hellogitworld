@@ -1,3 +1,12 @@
+/********************************Updated Text in File****************************/
+
+
+Hi, Trying out the GitHub process.
+
+
+/*******************************************************************************/
+
+
 This is a sample project students can use during Matthew's Git class.
 
 Here is an addition by me
